@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the carriage of a party of horse, at Medborne in the county of Leicester: as it was given in to the Committee of Leicester, on Thursday the 9th. of April, 1646. By the minister, and inhabitants of the said towne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81649</idno>
+            <idno type="STC">Wing D1966</idno>
+            <idno type="STC">Thomason E334_17</idno>
+            <idno type="STC">ESTC R200769</idno>
+            <idno type="EEBO-CITATION">99861429</idno>
+            <idno type="PROQUEST">99861429</idno>
+            <idno type="VID">159668</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159668)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E334[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the carriage of a party of horse, at Medborne in the county of Leicester: as it was given in to the Committee of Leicester, on Thursday the 9th. of April, 1646. By the minister, and inhabitants of the said towne.</title>
+                  <author>Doughty, Thomas, minister of Medborne.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The minister = Thomas Doughty.</note>
+                  <note>Annotation on Thomason copy: "Aprill 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Personal narratives. --  Early works to 1800.</term>
+               <term>Medbourne (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159668:1" rendition="simple:additions"/>
+            <p>
+               <hi>A True</hi> RELATION OF THE Carriage of a Party of HORSE, At <hi>Medborne</hi> in the County of <hi>LEICESTER:</hi> As it was given in to the COMMITTEE of <hi>Leiceſter,</hi> on Thurſday the 9<hi rend="sup">th</hi>. of <hi>April,</hi> 1646.</p>
+            <p>BY THE <hi>Miniſter, and Inhabitants of the ſaid Towne.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. W.</hi>
+               <add>Aprill 30<hi rend="sup">th</hi>
+               </add> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:159668:2"/>
+            <pb n="1" facs="tcp:159668:2"/>
+            <head>A True RELATION, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon Friday the 3. of this inſtant <hi>April,</hi> 1646. about eleven or twelve of the clock in the forenoon, there came nine or ten Troopers into <hi>Medborne</hi> in the County of <hi>Leiceſter,</hi> and enquired for the Conſta<g ref="char:EOLhyphen"/>ble. He not at home, they demanded of his wife Provender and Quarter for ten horſes and men: She asked to whom they belong'd; they anſwered, to Colonel <hi>Roſſiter.</hi> She told them they ſhould have Provender and Quarter aſſigned them preſently, and called for her ſon to accommo<g ref="char:EOLhyphen"/>date them: One of them preſently replies, Come, come, we muſt not ſtay your leiſure, wee'll take ſome of theſe things here (in the houſe) &amp; make mony of them to pay our quarters. I hope (Sir) ſaith the woman, you will not be ſo violent: Yes, ſaid he, (bending his Piſtol at her) we have a Commiſſion to kill and ſlay all Cavaliers that we find without tickets, and we have been at <hi>Holt</hi> this morning, and if we had found any of them there without tickets, we would have put them all to the ſword. The woman, very well affected to the Parliament, yet affrighted with ſuch carriage and language, deſires them to have patience, and fetcheth them what provender they demanded, offering them tickets to quarter at ſeverall houſes, which they refuſed, ſaying they would quarter to<g ref="char:EOLhyphen"/>gether at the Ale-houſe, and the Conſtable ſhould pay for it, And ſo they did for an houre or two.</p>
+            <p>Anon, one of them returns to the Conſtables houſe, and demands a horſe out of the ſtable: ſhe intreats them to be content with their free quarter for themſelves and their horſes; But he growing violent, and preparing and trying to break open the ſtable, and threatning to ſhoot her ſonne that had locked the door. She ſent privately for Mr. <hi>Doughty</hi> the Miniſter of the Town, as one well known to the neighbouring gar<g ref="char:EOLhyphen"/>riſon, to perſwade them: the Souldier ſuſpecting ſomething, ran after the man that was ſent, with his piſtol, as if he would kill him, who hard<g ref="char:EOLhyphen"/>ly eſcaped through a Barn, which the ſaid ſouldier ſearched diligently for him. The Miniſter, when he came, found them all horſt at the Con<g ref="char:EOLhyphen"/>ſtables door, and ſaluting them after a friendly manner, asked if there
+<pb n="2" facs="tcp:159668:3"/> were any Officer amongſt them? They begin to handle their arms, and (with other inſolent and reproachfull language) ſaid, Who made you an examiner? and, We will know, ere we go, who made you an exa<g ref="char:EOLhyphen"/>miner. And being ſomewhat calmed with fair words, one amongſt them ſaid he was Quartermaſter, but they refuſed to give any other account of themſelves, then, that they were for King and Parliament, and, Per<g ref="char:EOLhyphen"/>haps we belong to <hi>Roſſiter,</hi> and perhaps have been conveighing preſt men to <hi>Northampton,</hi> and what has any body to do with that? The Miniſter deſired to know whether they quartered hereabout laſt night, and where the reſt of their party was? they anſwered, They could ſpeak to theſe things, but ſcorned to be accountable to every one. The Miniſter told them, that by vertue of an Order from the Committee of <hi>Leiceſter,</hi> he had power to examine them, or any that ſhould come in that manner, but yet deſired only as a friend to know to whom they belonged; they anſwer, That's all one, we ſhall deſire to be excuſed.</p>
+            <p>A while after, news was brought to the Miniſter, that a horſe was taken out of his team that was at plough, by the ſouldiers that quartered in the town, and that they had beaten the plough-men, and railed at their maſter, ſaying that he was a Rogue, and they would have one of his horſes, which carriage of theirs made many believe they had been a party of Cavaliers; whereupon the Miniſter, with his youngeſt brother and two men, took ſome arms and ran out on foot to reſcue the team being near the town, and in the recovery of the horſe which the ſouldi<g ref="char:EOLhyphen"/>ers had taken, they took the Quartermaſter priſoner with his horſe and arms (who with ſome others charged thoſe that came to reſcue the horſe) and brought him into the Parſonage, without any bloodſhed on either ſide.</p>
+            <p>The reſt eſcaping, ſeized upon one whole team in the field, and part of another, and were driving them apace towards <hi>Rockingham,</hi> where<g ref="char:EOLhyphen"/>upon the town generally roſe, and with forks and ſtaves and ſome few guns purſued them, and in <hi>Drayton</hi> field, a mile from <hi>Medborne,</hi> over<g ref="char:EOLhyphen"/>took them, where the Troopers attempted once or twice to charge them, but the Townſmen thus beſpake them; Gentlemen, we deſire to do you no wrong, and we deſire you would do us no wrong; You have taken away cattle, and we have a man of yours in the town, Let us have our horſes, and you ſhall have your man, if you tell us to whom you belong; And do not you offer to hurt us, for we ſtand upon our own defence, and if ye do, ye come upon your own perill. Here they came
+<pb n="3" facs="tcp:159668:3"/> to an agreement: the Troopers ſaid they were Major <hi>Babingtons</hi> men, that their Lieutenant and Troop quartered at <hi>Calcut</hi> (in <hi>Rutland,</hi> with<g ref="char:EOLhyphen"/>in a mile of <hi>Rockingham)</hi> that the horſes were gone thither, but they would ſend one of their company for the horſes, and the reſt return to <hi>Medborne</hi> for their man that was at the Parſonage. Hitherto there was no blood drawn on either ſide (though one piſtol was caſually fired, and ſome ſtones thrown) ſaving only that one or two of the Country-men that ſtragled from the reſt, were cut before this agreement.</p>
+            <p>And now marching in a friendly manner all together towards <hi>Med<g ref="char:EOLhyphen"/>borne,</hi> (for now ſome on both ſides remembred one another as being formerly acquainted) within a quarter of a mile of <hi>Medborne,</hi> a party of about twenty Horſe, which they had treacherouſly ſent for from their Quarters (and not for the town-horſes, as was agreed and ſworn) over<g ref="char:EOLhyphen"/>took them: the Country men no ſooner diſcovered them, but they de<g ref="char:EOLhyphen"/>ſired one of the Troopers that were going back with them, to ride and meet them, and tell them that all was agreed, that there might be no miſchief done. This meſſenger was a <hi>Scot,</hi> who when he came up to the ſaid twenty, told them that the Townſmen had taken their men pri<g ref="char:EOLhyphen"/>ſoners; And ſaved indeed the Miniſters brother from the fury of the reſt, of whom three or four fell violently upon him (yet hurt him not) but joyned with them in falling upon the Townſmen now diſperſed and ſcattered over the field; and without mercy ſtabbed, wounded, miſerably bruiſed and trampled with their horſes, ſixteen men or up<g ref="char:EOLhyphen"/>wards in the field, of which one dyed within twelve houres, and other two within five dayes: divers were thruſt through, as they ran from them towards the hedges and ricks; one had his bowels let out with a wound, other ſome had their hands almoſt cut off, and ſome beaten and bruiſed ſo that they are not likely to recover, and the reſt leſſe dan<g ref="char:EOLhyphen"/>gerouſly hurt. Of theſe, divers were grievouſly mangled and cut, after the Souldiers had perſwaded them to lay down their arms, and ſworne to do them no harm, eſpecially thoſe that moſt manfully defended themſelves. And when all was done, the Conſtable <hi>James Barret</hi> comming in (from the wood) to ſee what was the matter, and having told them he was the Conſtable, three or foure of them fell upon him and thruſt him through the body, whereof he is dead. And when as they rode up and down the field to ſeek out the country men (for many endeavoured to hide themſelves) crying, <hi>Kill, kill the Rogues,</hi> and ſome of the wounded anſwered, <hi>They had their deaths wounds already:</hi>
+               <pb n="4" facs="tcp:159668:4"/> they made them open their clothes, and ſhew where and what their hurt was, before they would ſpare them; curſing and ſwearing all the while after a dreadfull manner: and divers they cut with their ſwords as they lay upon the ground, and as they found them in the ditches: and when ſome that were deadly wounded, were ſet on horſeback to be carried into the town, ſome of thoſe ſouldiers cauſed them to be taken down, ſaying, Throw them down: and when ſome anſwered, He is wounded, he cannot go; One Mr. <hi>Manſell</hi> (not the Lieutenant, for he was not amongſt them nor any other Officer but one Corporal) ſaid, <hi>Throw him down, Plague on them, if he cannot go, let him not in the ditches.</hi> And after they had wounded them, they would not ſuffer them to be carried into the town of an houre or more, but made them lie in their blood and ſweat on the cold ground.</p>
+            <p>Being come into the town, they came ſwearing and raging after a dreadfull manner to the Miniſters houſe demanding entrance, and their man that was there priſoner. The Miniſter (who ſtayed at home, whilſt his brother and ſervants went out to reſcue the Towns teams) deſired them to forbeare till his brother and Townſmen were returned, that he might know what was done in the field, and they ſhould have their man, if withall they declared to whom they belonged, and what they were, which the priſoner had refuſed to diſcover. They ſwore they were Major <hi>Babingtons</hi> men, and would have their man and the Mini<g ref="char:EOLhyphen"/>ſter too, or they would fire the houſe. The houſe, ſaid another, nay fire the Town: and with that one of them rode to the other ſide of the town, brake open a houſe, and fetcht out a fire-brand, with which he rode back to the Parſonage; but one leſſe deſperate then he, beat it out of his hand and put it out, before he could put it into the Hovell.</p>
+            <p>When they had burſt open the gate, and attempted upon the houſe, the Miniſter brought their man to the window, that they might ſee he was well, and deſired him to perſwade them to forbeare, and he ſhould be let out unto them, who inſtead of perſwading, did more incenſe them to violence: whereupon they cry out with horrid oaths, No parley, no quarter, nothing but blood, or ſubmiſſion to our mercy. The Mini<g ref="char:EOLhyphen"/>ſter preſents a ſhort ſcattering gun at four or five of them together that were breaking a window, whereupon ſome of them ſhrunk back, and all ſwore deſperately, that if he made but one ſhot, hit or miſſe, they would kill his brother and the reſt of the Townſmen that were their priſoners in the field, and then fire the houſe and put all therein to the ſword,
+<pb n="5" facs="tcp:159668:4"/> and one ſwore, <hi>Let't go &amp; kill them in the field, the firſt thing we do.</hi> And then did one of them bring a burning firebrand of the bignes of a mans arm, and thruſt it into a hovell of Peaſe-ſtraw and Peaſe, neer the houſe, which being heavy fell out upon the ground before it could kindle. And ſo breaking in at a window (whilſt the Miniſter and his wife, with M. <hi>Boheme</hi> Miniſter of <hi>Hallarton</hi> who was then alſo in the houſe, eſcaped out at a back-doore) they brake open every door that they found lock<g ref="char:EOLhyphen"/>ed, to ſearch for Mr. <hi>Doughtey,</hi> (ſave one door that they attempted, but could not break) ſwearing they would cut the maids in a hundred peeces, if they told not where he was, for they would have his blood if they were hang'd for it. And having plundered the houſe at their pleaſure of ſuch things as they could beſt carry away, ranſacking and breaking up divers trunks and boxes, and cutting ſome furniture with their ſwords in their rage; at length they departed, and carried the Miniſters brother priſoner behind one of them to their quarters, where they kept him that night, ſome of them ſwearing often they were ſorry they had given him quarter; and others threatned, that when or where<g ref="char:EOLhyphen"/>ſoever they ſhould meet with him, or his brother the miniſter, alone, they would kill them.</p>
+            <p>Since this, they have been heard at ſeverall times to threaten and ſweare, that they would kill the ſaid Mr. <hi>Doughtey,</hi> and that the reſt of the Town ſhould drink of the ſame cup, rejoycing at the death of ſome, and miſeries of the reſt, boaſting and glorying how many they had wounded.</p>
+            <p>Alſo upon Wedneſday <hi>April</hi> 8. as one of our ſlain (the Miniſters ſervant) was carried to the grave, a party of the ſame men, with drawn ſwords at the towns end, ſtood hooping and hallowing as in triumph, and challenging the Town to come out, greatly terrifying the inhabi<g ref="char:EOLhyphen"/>tants.</p>
+            <p>All which Premiſes the whole Town of <hi>Medborne</hi> hum<g ref="char:EOLhyphen"/>bly refer to your conſiderations, deſiring that the reſt of the ſaid Party may be apprehended, and all proceeded againſt according to law and juſtice, and the Town ſecured from their further threatned rage.</p>
+            <p>And as we deſire that all that Troop may be brought
+<pb n="6" facs="tcp:159668:5"/> to examination, ſo, that the innocent and guiltleſſe among them may be ſpeedily cleered; And all with as little pre<g ref="char:EOLhyphen"/>judice as may be to Major <hi>Babington,</hi> his Lieutenant, and other Officers and Souldiers that had no hand in the pre<g ref="char:EOLhyphen"/>miſes.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>THe moſt of this Party were apprehended in their Quarters at <hi>Ly<g ref="char:EOLhyphen"/>dington</hi> neer <hi>Vppingham,</hi> by a party of <hi>Leiceſter</hi> Horſe and Dra<g ref="char:EOLhyphen"/>goons, upon Thurſday <hi>April</hi> 9. 1646. and the reſt of them we hope will be ſecured ere long.</p>
+            <p>Theſe are part of the fruits of retaining Souldiers unimployed, and unpaid. This Troop belonged to <hi>Leiceſter,</hi> till in diſcontent they left that Garriſon, for imployment under Colonel <hi>Wayte</hi> late Governour of <hi>Burleigh:</hi> And ſince the taking in of <hi>Belvoyr,</hi> have quartered in <hi>Rut<g ref="char:EOLhyphen"/>land</hi> and thereabouts, to the great oppreſſion of the Inhabitants, more wayes then one.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
